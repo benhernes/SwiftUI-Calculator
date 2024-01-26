@@ -2,7 +2,7 @@
 //  CalculatorApp.swift
 //  Calculator
 //
-//  Created by Ben Hernes on 9/10/23.
+//  Created by Ben Hernes
 //
 
 import SwiftUI
