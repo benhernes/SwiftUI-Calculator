@@ -1,4 +1,4 @@
-## Calculator project
+## Calculator app project | 11.2023
 
 ### Overview
 - 24-hour project to learn basics of SwiftUI
