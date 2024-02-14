@@ -1,7 +1,7 @@
 ## Calculator app project | 11.2023
 
 ### Overview
-- 24-hour project to learn basics of SwiftUI
+- Quick day project to learn basics of SwiftUI
   - NavigationStack / basic view navigation
   - basic UI and animation
   - system feedback
